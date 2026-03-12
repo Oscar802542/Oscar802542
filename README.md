@@ -2,7 +2,6 @@
 
 - 🔭 Futuro Engenheiro de Software
 - 🌱 Estudante de Programação
-- 🤔 Futuro Front-End
 - 😄 Ele/Dele
 
   <div style="display: inline_block"><br>
@@ -12,5 +11,5 @@
 </div>
 
 <div> 
-<a href="https://www.instagram.com/oscarmarques_a?igsh=M3pmaG9peDdybzI=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="[https://www.instagram.com/oscarmarques_a?igsh=M3pmaG9peDdybzI](https://www.instagram.com/oscarmarquesantunes?igsh=MXo4ODNxOGJ0cjd0)=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
