@@ -1,4 +1,4 @@
-## Oiii eu sou a Oscar Oliveira, Estudante de programação e tecnologia!
+## Oiii eu sou a Oscar Marques, Estudante de programação e tecnologia!
 
 - 🔭 Futuro Engenheiro de Software
 - 🌱 Estudante de Programação
